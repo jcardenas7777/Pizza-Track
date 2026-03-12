@@ -127,3 +127,14 @@ java Main
 ---
 
 *Actividad académica — Estructuras de Datos — Java*
+Sustentación Individual (Video Explicativo):
+
+Cada estudiante debe grabar un video individual (máximo 3 minutos) donde:
+
+Se presente formalmente (mostrando su rostro).
+
+Explique la lógica de los métodos push() y pop() implementados manualmente.
+
+"Realice una prueba de ejecución mostrando el ciclo: Registro -> Deshacer -> Rehacer."
+
+https://drive.google.com/file/d/104Z84SbpkIv8QWAWDCWGpLa-KeEEL60k/view?usp=drive_link
