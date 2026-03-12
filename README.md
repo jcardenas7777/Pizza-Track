@@ -1,10 +1,10 @@
-# 🍕 Pizza-Track — Sistema de Gestión de Pedidos con Undo/Redo
+#  Pizza-Track — Sistema de Gestión de Pedidos con Undo/Redo
 
 Proyecto desarrollado en Java como actividad académica para comprender la estructura de datos **Pila (Stack)** aplicada a un sistema real de gestión de pedidos de pizzería.
 
 ---
 
-## 📐 Arquitectura del Proyecto
+##  Arquitectura del Proyecto
 
 ```
 PizzaTrack/
@@ -19,7 +19,7 @@ PizzaTrack/
 
 ---
 
-## 🧱 Diagrama de la Estructura
+## Diagrama de la Estructura
 
 ```
 PILA PRINCIPAL (pilaUndo)       PILA SECUNDARIA (pilaRedo)
@@ -77,7 +77,7 @@ PILA PRINCIPAL (pilaUndo)       PILA SECUNDARIA (pilaRedo)
 
 ---
 
-## 🔄 Flujo Undo/Redo
+## Flujo Undo/Redo
 
 ```
 Acción          pilaUndo (tope→base)       pilaRedo (tope→base)
@@ -93,7 +93,7 @@ Registrar D     [D, B, A]                  []  ← Redo se limpia
 
 ---
 
-## 🚀 Cómo Compilar y Ejecutar
+##  Cómo Compilar y Ejecutar
 
 ```bash
 # Compilar (desde la carpeta src/)
@@ -105,7 +105,7 @@ java Main
 
 ---
 
-## 📌 Restricciones Cumplidas
+##  Restricciones Cumplidas
 
 -  Arreglo fijo de tamaño 3 para ingredientes en `Pizza.java`
 -  Lista ligada manual con clase `Nodo`
