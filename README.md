@@ -138,3 +138,7 @@ Explique la lógica de los métodos push() y pop() implementados manualmente.
 "Realice una prueba de ejecución mostrando el ciclo: Registro -> Deshacer -> Rehacer."
 
 https://drive.google.com/file/d/104Z84SbpkIv8QWAWDCWGpLa-KeEEL60k/view?usp=sharing
+
+
+
+![alt text](<Captura de pantalla 2026-03-12 093043-1.png>) ![alt text](<Captura de pantalla 2026-03-12 093231-1.png>) ![alt text](<Captura de pantalla 2026-03-12 093258-1.png>) ![alt text](<Captura de pantalla 2026-03-12 093335-1.png>) ![alt text](<Captura de pantalla 2026-03-12 093400-1.png>) ![alt text](<Captura de pantalla 2026-03-12 093429-1.png>) ![alt text](<Captura de pantalla 2026-03-12 093448-1.png>)
